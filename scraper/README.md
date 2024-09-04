@@ -32,8 +32,28 @@ Before running the script, ensure you have the following installed:
    Start by cloning this repository or downloading the script to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Image-Scraper.git
-   cd Image-Scraper
+   git clone https://github.com/ranzeet013/iBeer.ai.git
+   cd scraper
 
+2. **Create a Virtual Environment**
+
+   First, create a virtual environment to isolate your project's dependencies:
+
+   ```bash
+   python -m venv venv
+
+3. **Activate the Virtual Environment (Windows)**
+
+   Activate the virtual environment with the following command:
+
+   ```bash
+   venv\Scripts\activate
+
+4. **Run the Script**
+
+   To start the image scraper, run the image_scraper.py script. The script will prompt     you to enter the search query, the number of images to download, and the directory where the images will be saved.
+
+   ```bash
+   python Scraper.py
 
 
