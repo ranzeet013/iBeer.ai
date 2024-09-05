@@ -185,9 +185,6 @@ The iBeer.ai system has demonstrated strong performance in both beer label recog
 
 Overall, iBeer.ai is proving to be an effective tool for beer enthusiasts, delivering a personalized and informative experience that makes beer discovery both fun and educational.
 
-## Contributing
-Contributions are welcome! If you encounter any issues, have suggestions for improvements, or want to contribute additional features or data, please submit a pull request. Let's work together to make iBeer.ai the ultimate platform for beer enthusiasts!
-
 ## Contact
 If you have any questions, feedback, or collaboration ideas, feel free to get in touch:
 
