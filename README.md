@@ -44,7 +44,7 @@ iBeer.ai integrates state-of-the-art machine learning models to optimize the use
 - **Natural Language Processing (NLP):** Used to interpret user input, such as food preferences or specific beer styles, to deliver personalized recommendations.
 - **Recommendation Algorithms:** These algorithms analyze user preferences, scanned beer data, and historical usage to suggest beers and food pairings that best match individual tastes. The more the platform is used, the more it adapts to personal preferences, delivering a highly personalized experience over time.
 
-By combining these features, iBeer.ai delivers a powerful, user-friendly platform for beer discovery, making it easier for users to explore, learn, and enjoy beer like never before.
+By combining these features, iBeer.ai delivers a powerful, user-friendly platform for beer discovery, making it easier for users to explore, learn, and enjoy beer like never before. 
 
 ## Installation
 To use this project, follow these steps:
