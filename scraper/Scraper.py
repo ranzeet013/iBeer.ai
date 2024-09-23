@@ -176,6 +176,6 @@ def extract_images(query, quantity, save_dir):
 if __name__ == "__main__":
     query = 'Nepal Ice Beer image'  # Default search term for the images
     quantity = int(input('How many photos do you want? '))  # User input for the number of images
-    save_dir = 'C:/Users/User/OneDrive/Desktop/iBeer.ai/Tigerbeer'  # Directory path on local machine to save images
+    save_dir = 'C:/Users/User/OneDrive/Desktop/iBeer.ai/Nepalice'  # Directory path on local machine to save images
     extract_images(query, quantity, save_dir)
 
