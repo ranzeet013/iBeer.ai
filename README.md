@@ -1,4 +1,3 @@
-
 # iBeer.ai Scan. Learn. Sip  
 
 <p align="center">
