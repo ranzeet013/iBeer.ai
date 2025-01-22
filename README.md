@@ -6,18 +6,6 @@
 
 This repository contains code and resources for the iBeer.ai project. The project focuses on building a beer recommendation platform that utilizes machine learning and computer vision to provide detailed information about various types of beer. Beer, with its rich history and diverse flavors, is a staple of social experiences worldwide. From classic lagers to hoppy IPAs, the variety available today caters to a wide range of tastes. Yet, navigating this extensive selection can be overwhelming, especially when trying to find the perfect beer for a specific occasion or meal. iBeer.ai is a cutting-edge platform that empowers beer enthusiasts and casual drinkers with the knowledge they need to make informed choices. Users can simply scan the label of any beer to access detailed information, including the beer’s ingredients, brewing process, and price. Additionally, iBeer.ai offers expertly curated food pairing suggestions, helping users enhance their dining experiences by selecting dishes that perfectly complement their chosen beer. With these features, iBeer.ai serves as a comprehensive guide, making the process of discovering, selecting, and enjoying beer more accessible and enjoyable than ever before.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Model](#model)
-- [Results](#results)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [License](#license)
-
 ## Introduction
 iBeer.ai is a revolutionary platform crafted to elevate the beer discovery experience for both casual drinkers and beer aficionados. With its advanced machine learning and computer vision capabilities, users can effortlessly scan the label of any beer bottle to access a wealth of information. This includes detailed insights into the beer’s ingredients, brewing process, and price, along with expertly curated food pairing suggestions. The platform also recommends similar beers to help users expand their palate and find the perfect beer for any occasion or meal. Unlike many beer apps that focus solely on craft beers, iBeer.ai caters to a broader spectrum, offering information on a wide variety of beers from classic lagers to robust IPAs. Whether you’re exploring new flavors or seeking the ideal accompaniment to a dish, iBeer.ai makes the journey of discovering and enjoying beer more accessible, educational, and enjoyable than ever before  .
 
