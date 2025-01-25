@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/IBeer.ai/labelDetector/dataset/train/images
+val: /content/drive/MyDrive/IBeer.ai/labelDetector/dataset/val/images
+nc: 1  # Number of classes
+names: ["beerLabel"]  # Replace with your class name(s)
