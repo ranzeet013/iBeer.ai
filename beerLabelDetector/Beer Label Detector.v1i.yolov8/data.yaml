@@ -1,0 +1,12 @@
+train: /content/drive/MyDrive/IBeer.ai/labelDetector/dataset/train/imagesimages
+val: /content/drive/MyDrive/IBeer.ai/labelDetector/dataset/val/imagesimages
+
+nc: 1
+names: ['beerLabel']
+
+roboflow:
+  workspace: object-detections-oflr2
+  project: beer-label-detector
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/object-detections-oflr2/beer-label-detector/dataset/1
