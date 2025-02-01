@@ -1,0 +1,37 @@
+{
+  "Recommended Beers": [
+    {
+      "Beer Name": "Anchor Steam",
+      "Brand": "Anchor Brewing Company",
+      "Style": "California Common",
+      "ABV": 4.9,
+      "IBU": 35,
+      "Ingredients": "water, barley, corn, hops, yeast",
+      "Flavor Profile": "malty, smooth, slightly sweet, crisp",
+      "Pairings": "burgers, grilled sausages, cheese",
+      "Description": "Anchor Steam is a distinctive California Common beer with a smooth malty sweetness and a crisp finish, making it perfect with burgers, grilled sausages, and cheese"
+    },
+    {
+      "Beer Name": "Killian's Irish Red",
+      "Brand": "Coors Brewing Company",
+      "Style": "Irish Red Ale",
+      "ABV": 4.9,
+      "IBU": 18,
+      "Ingredients": "water, barley, hops, yeast",
+      "Flavor Profile": "malty, caramel, smooth, slightly bitter",
+      "Pairings": "steak, grilled vegetables, burgers",
+      "Description": "Killians Irish Red is a malty and smooth Irish Red Ale with a hint of caramel sweetness and a slightly bitter finish, making it a perfect match with steak, grilled vegetables, or burgers"
+    },
+    {
+      "Beer Name": "Fat Tire Amber Ale",
+      "Brand": "New Belgium Brewing",
+      "Style": "Amber Ale",
+      "ABV": 5.2,
+      "IBU": 22,
+      "Ingredients": "water, barley, hops, yeast",
+      "Flavor Profile": "malty, caramel, smooth, slightly hoppy",
+      "Pairings": "burgers, chicken, grilled vegetables",
+      "Description": "Fat Tire Amber Ale is a smooth amber ale with a malty caramel flavor and a slight hoppy finish, perfect with burgers, chicken, and grilled vegetables"
+    }
+  ]
+}
