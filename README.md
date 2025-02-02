@@ -1,7 +1,7 @@
 # iBeer.ai Scan. Learn. Sip   
 
 <p align="center">
-  <img src="https://github.com/ranzeet013/iBeer.ai/blob/main/image/iBeer.ai%20(1).png" alt="iBeer.ai Logo" width="200" />
+  <img src="https://github.com/ranzeet013/iBeer.ai/blob/main/projectLogo/iBeer.ai.png" alt="iBeer.ai Logo" width="200" />
 </p>
 
 This repository contains code and resources for the iBeer.ai project. The project focuses on building a beer recommendation platform that utilizes machine learning and computer vision to provide detailed information about various types of beer. Beer, with its rich history and diverse flavors, is a staple of social experiences worldwide. From classic lagers to hoppy IPAs, the variety available today caters to a wide range of tastes. Yet, navigating this extensive selection can be overwhelming, especially when trying to find the perfect beer for a specific occasion or meal. iBeer.ai is a cutting-edge platform that empowers beer enthusiasts and casual drinkers with the knowledge they need to make informed choices. Users can simply scan the label of any beer to access detailed information, including the beer’s ingredients, brewing process, and price. Additionally, iBeer.ai offers expertly curated food pairing suggestions, helping users enhance their dining experiences by selecting dishes that perfectly complement their chosen beer. With these features, iBeer.ai serves as a comprehensive guide, making the process of discovering, selecting, and enjoying beer more accessible and enjoyable than ever before.
